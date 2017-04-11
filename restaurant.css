@@ -10,8 +10,6 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    font-family: 'Exo 2', sans-serif;
-font-family: 'Open Sans', sans-serif; 
 }
 
 li {
@@ -69,4 +67,14 @@ font-size:30px;
 .float: left;
 width: 296px;
 border: 2 px;
+}
+
+.body-class{
+  font-family: 'Exo 2', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+.body-class background {
+  height: 100%;
+  width: 100%;
 }
