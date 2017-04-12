@@ -9,8 +9,10 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #021C1E;;
-}
+    background-color: #EC96A4;
+    background: rgba(0, 0, 0, 0.3);
+    }
+
 
 li {
     float: left;
@@ -74,7 +76,10 @@ border: 2 px;
 font-family: 'Open Sans', sans-serif;
 }
 
-.body-class background {
-  height: 100%;
-  width: 100%;
+body {
+  background: url(abstract.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
